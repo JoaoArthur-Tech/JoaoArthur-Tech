@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é João Arthur. Seja bem-vindo ao meu GitHub.</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx5ZnFxMW1hb2F5cTB6ejVvOXZhZXd4c2FsYXN5c2dqdXZodmU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVAVYisPDDbZS/giphy.gif"  />
+<div align="center">
+  <img height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx5ZnFxMW1hb2F5cTB6ejVvOXZhZXd4c2FsYXN5c2dqdXZodmU3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVAVYisPDDbZS/giphy.gif"  />
+</div>
 
 ###
 
