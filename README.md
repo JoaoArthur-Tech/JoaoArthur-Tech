@@ -43,6 +43,11 @@
 
 <img src="https://raw.githubusercontent.com/JoaoArthur-Tech/JoaoArthur-Tech/output/snake.svg" alt="Snake animation" />
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoArthur-Tech&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+</div>
+
 ###
 
 <h2 align="center">Visualizações</h2>
@@ -53,8 +58,5 @@
   <img src="https://profile-counter.glitch.me/JoaoArthur-Tech/count.svg?"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoaoArthur-Tech&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
-</div>
 
 ###
