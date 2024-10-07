@@ -15,15 +15,23 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<h2 align="center">Linguagens</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
 ###
 
-<div align="left">
+<h2 align="center">Redes Socias</h2>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/arthurncarvalho_/?__pwa=1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -34,5 +42,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JoaoArthur-Tech/JoaoArthur-Tech/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">Visualizações</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JoaoArthur-Tech/count.svg?"  />
+</div>
 
 ###
